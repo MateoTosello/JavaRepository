@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.BasicSintax/1.BasicSintax.iml" filepath="$PROJECT_DIR$/1.BasicSintax/1.BasicSintax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.Herencia/2.Herencia.iml" filepath="$PROJECT_DIR$/2.Herencia/2.Herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.ArrayList/3.ArrayList.iml" filepath="$PROJECT_DIR$/3.ArrayList/3.ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.LinkedList/4.LinkedList.iml" filepath="$PROJECT_DIR$/4.LinkedList/4.LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Ejercicio1-4/Ejercicio1-4.iml" filepath="$PROJECT_DIR$/Exercises/Ejercicio1-4/Ejercicio1-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Ejercicio5/Ejercicio5.iml" filepath="$PROJECT_DIR$/Exercises/Ejercicio5/Ejercicio5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Javarepository.iml" filepath="$PROJECT_DIR$/.idea/Javarepository.iml" />
+    </modules>
+  </component>
+</project>
